@@ -1,0 +1,7 @@
+.carousel-inner{
+  width: 50%;
+  height: 50%;
+  left: 20%;
+  right: 20;
+  position: relative;
+}
